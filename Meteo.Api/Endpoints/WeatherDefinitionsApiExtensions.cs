@@ -58,7 +58,8 @@
                 })
                 .WithOpenApi()
                 .WithTags("Weather")
-                .WithDescription("Registers a weather forecast definition.");
+                .WithDescription("Registers a weather forecast definition. " +
+                                "If email address is provided then it will send message with WeatherForecastDefinition details. Added for Outbox purpose");
 
             builder.MapPost(
                 "/forecasts",
@@ -91,7 +92,8 @@
                 })
                 .WithOpenApi()
                 .WithTags("Weather")
-                .WithDescription("Fetches data from open meteo and adds or updates weather database.");
+                .WithDescription("Fetches data from open meteo and adds or updates weather database. " +
+                                "If email address is provided then it will send message with WeatherForecastDefinition details. Added for Outbox purpose");
 
             builder.MapDelete(
                 "/by-id/{id:guid}",
