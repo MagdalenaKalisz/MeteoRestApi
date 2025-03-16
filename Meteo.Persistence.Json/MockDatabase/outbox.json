@@ -1,0 +1,170 @@
+[
+  {
+    "Id": "019596e9-7a22-79ec-8a49-9af66ff183be",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596e9-7a0c-7c6d-b417-e6832264fd66\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:75}",
+    "OccurredAt": "2025-03-14T23:07:18.434601+00:00",
+    "ProcessedAt": "2025-03-14T23:07:22.58656+00:00"
+  },
+  {
+    "Id": "019596ef-1055-791e-b8d5-d9fc1960d15d",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596a8-b01a-7f7c-862d-0c2093e5e39d\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:1}",
+    "OccurredAt": "2025-03-14T23:13:24.565266+00:00",
+    "ProcessedAt": "2025-03-14T23:13:37.975287+00:00"
+  },
+  {
+    "Id": "019596ef-b90d-7a36-a1db-5b278d9b49a1",
+    "Type": "Meteo.Domain.Events.WeatherForecastCreated",
+    "Payload": "{\u0022forecastId\u0022:\u0022019596a8-b036-7473-b5ca-fb5f17a4e718\u0022,\u0022definitionId\u0022:\u0022019596a8-b01a-7f7c-862d-0c2093e5e39d\u0022}",
+    "OccurredAt": "2025-03-14T23:14:07.757401+00:00",
+    "ProcessedAt": "2025-03-14T23:14:07.977039+00:00"
+  },
+  {
+    "Id": "019596ef-b90d-7221-86ef-1f0581f45deb",
+    "Type": "Meteo.Domain.Events.WeatherForecastCreated",
+    "Payload": "{\u0022forecastId\u0022:\u0022019596b6-7a62-7745-b73a-19a28f4dde50\u0022,\u0022definitionId\u0022:\u0022019596b6-7a48-76dd-9e62-f41476931912\u0022}",
+    "OccurredAt": "2025-03-14T23:14:07.757977+00:00",
+    "ProcessedAt": "2025-03-14T23:14:07.97854+00:00"
+  },
+  {
+    "Id": "019596ef-b90e-72a3-812b-da73c4a566a1",
+    "Type": "Meteo.Domain.Events.WeatherForecastCreated",
+    "Payload": "{\u0022forecastId\u0022:\u0022019596bf-d8f5-7712-bb6b-ab768e28d6ba\u0022,\u0022definitionId\u0022:\u0022019596bf-d8da-7c52-b110-2cc72c16bbd8\u0022}",
+    "OccurredAt": "2025-03-14T23:14:07.758413+00:00",
+    "ProcessedAt": "2025-03-14T23:14:07.979743+00:00"
+  },
+  {
+    "Id": "019596ef-b90e-7c40-aa7d-e8ed683b84ea",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596a8-b01a-7f7c-862d-0c2093e5e39d\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:1}",
+    "OccurredAt": "2025-03-14T23:14:07.758824+00:00",
+    "ProcessedAt": "2025-03-14T23:14:10.509573+00:00"
+  },
+  {
+    "Id": "019596ef-b90f-7888-a3bb-3883e28694e6",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596b6-7a48-76dd-9e62-f41476931912\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:2}",
+    "OccurredAt": "2025-03-14T23:14:07.759212+00:00",
+    "ProcessedAt": "2025-03-14T23:14:11.391757+00:00"
+  },
+  {
+    "Id": "019596ef-b90f-7d7d-ac54-f99f7492cbb7",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596bf-d8da-7c52-b110-2cc72c16bbd8\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:4}",
+    "OccurredAt": "2025-03-14T23:14:07.759556+00:00",
+    "ProcessedAt": "2025-03-14T23:14:11.895934+00:00"
+  },
+  {
+    "Id": "019596ef-b90f-7d5e-86a4-74be72649839",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596c3-62cb-7ba9-9d59-4e9921312113\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:100}",
+    "OccurredAt": "2025-03-14T23:14:07.759898+00:00",
+    "ProcessedAt": "2025-03-14T23:14:14.095635+00:00"
+  },
+  {
+    "Id": "019596ef-b910-7b56-a35a-8319b6c498e1",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596c9-8dfb-7c6b-915f-2009f518358a\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:5}",
+    "OccurredAt": "2025-03-14T23:14:07.760356+00:00",
+    "ProcessedAt": "2025-03-14T23:14:14.099495+00:00"
+  },
+  {
+    "Id": "019596ef-b910-7dbc-b809-30b7b1e17d72",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596cf-db95-7c7f-9624-f6ef2b329be1\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:10}",
+    "OccurredAt": "2025-03-14T23:14:07.760821+00:00",
+    "ProcessedAt": "2025-03-14T23:14:14.102334+00:00"
+  },
+  {
+    "Id": "019596ef-b911-7f0c-b3d0-c7ab9562b123",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596e7-f681-71c5-9e19-6c581694dff3\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:67}",
+    "OccurredAt": "2025-03-14T23:14:07.761344+00:00",
+    "ProcessedAt": "2025-03-14T23:14:14.105008+00:00"
+  },
+  {
+    "Id": "019596ef-b911-7029-8534-37cfb49b8977",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022definitionId\u0022:\u0022019596e9-7a0c-7c6d-b417-e6832264fd66\u0022,\u0022latitude\u0022:1,\u0022longitude\u0022:75}",
+    "OccurredAt": "2025-03-14T23:14:07.761876+00:00",
+    "ProcessedAt": "2025-03-14T23:14:14.107938+00:00"
+  },
+  {
+    "Id": "01959706-ccdf-7485-b1a9-9e7d8c1e342d",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022DefinitionId\u0022:\u002201959706-ccd5-7911-b267-1cdeac37eb39\u0022,\u0022Latitude\u0022:1,\u0022Longitude\u0022:1}",
+    "OccurredAt": "2025-03-14T23:39:20.160025+00:00",
+    "ProcessedAt": "2025-03-14T23:39:20.776867+00:00"
+  },
+  {
+    "Id": "01959707-16fd-79eb-b0f8-eb1a4047c05d",
+    "Type": "Meteo.Domain.Events.WeatherForecastCreated",
+    "Payload": "{\u0022ForecastId\u0022:\u002201959706-ccf0-7a65-b005-bc60ec8aa395\u0022,\u0022DefinitionId\u0022:\u002201959706-ccd5-7911-b267-1cdeac37eb39\u0022}",
+    "OccurredAt": "2025-03-14T23:39:39.133904+00:00",
+    "ProcessedAt": "2025-03-14T23:39:40.717314+00:00"
+  },
+  {
+    "Id": "01959707-1701-7654-84bd-4699cffd1f8c",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022DefinitionId\u0022:\u002201959706-ccd5-7911-b267-1cdeac37eb39\u0022,\u0022Latitude\u0022:1,\u0022Longitude\u0022:1}",
+    "OccurredAt": "2025-03-14T23:39:39.137106+00:00",
+    "ProcessedAt": "2025-03-14T23:39:40.721866+00:00"
+  },
+  {
+    "Id": "01959711-5bbd-72ae-9226-2c3793e500cd",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022DefinitionId\u0022:\u002201959711-5bac-75e9-bb2c-948e4809aaa3\u0022,\u0022Latitude\u0022:1,\u0022Longitude\u0022:1}",
+    "OccurredAt": "2025-03-14T23:50:52.093149+00:00",
+    "ProcessedAt": "2025-03-14T23:50:55.124005+00:00"
+  },
+  {
+    "Id": "01959711-5bc5-7ac7-a4a0-76a67b316f5e",
+    "Type": "Library.Application.Events.EmailOutboxEvent",
+    "Payload": "{\u0022To\u0022:\u0022vaporbae@gmail.com\u0022,\u0022Subject\u0022:\u0022New Weather Forecast Created\u0022,\u0022Body\u0022:\u0022A new weather forecast has been created for coordinates: 1.000000, 1.000000.\u0022}",
+    "OccurredAt": "2025-03-14T23:50:52.101454+00:00",
+    "ProcessedAt": "2025-03-14T23:50:55.126372+00:00"
+  },
+  {
+    "Id": "01959715-fd77-7c0f-aee8-e05ebf502e2b",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022DefinitionId\u0022:\u002201959715-fd6a-7d5a-9220-5788e3778047\u0022,\u0022Latitude\u0022:1,\u0022Longitude\u0022:3}",
+    "OccurredAt": "2025-03-14T23:55:55.639681+00:00",
+    "ProcessedAt": "2025-03-14T23:55:57.538094+00:00"
+  },
+  {
+    "Id": "01959715-fd7f-712b-9c96-c5f1362b201a",
+    "Type": "Library.Application.Events.EmailOutboxEvent",
+    "Payload": "{\u0022To\u0022:\u0022vaporbae@gmail.com\u0022,\u0022Subject\u0022:\u0022New Weather Forecast Created\u0022,\u0022Body\u0022:\u0022A new weather forecast has been created for coordinates: 1.000000, 3.000000.\u0022}",
+    "OccurredAt": "2025-03-14T23:55:55.64796+00:00",
+    "ProcessedAt": "2025-03-14T23:55:57.540737+00:00"
+  },
+  {
+    "Id": "01959716-af04-7ac9-8f0b-a4cb04005c75",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022DefinitionId\u0022:\u002201959716-af04-79d3-9a8c-aff15a814be6\u0022,\u0022Latitude\u0022:1,\u0022Longitude\u0022:5}",
+    "OccurredAt": "2025-03-14T23:56:41.092996+00:00",
+    "ProcessedAt": "2025-03-14T23:57:22.244568+00:00"
+  },
+  {
+    "Id": "01959716-af06-79a0-a9d1-2101ed850cc6",
+    "Type": "Library.Application.Events.EmailOutboxEvent",
+    "Payload": "{\u0022To\u0022:\u0022vaporbae@gmail.com\u0022,\u0022Subject\u0022:\u0022New Weather Forecast Created\u0022,\u0022Body\u0022:\u0022A new weather forecast has been created for coordinates: 1.000000, 5.000000.\u0022}",
+    "OccurredAt": "2025-03-14T23:56:41.094086+00:00",
+    "ProcessedAt": "2025-03-15T00:09:27.210076+00:00"
+  },
+  {
+    "Id": "01959724-7235-7719-96e5-3d79402266fe",
+    "Type": "Meteo.Domain.Events.WeatherForecastDefinitionCreated",
+    "Payload": "{\u0022DefinitionId\u0022:\u002201959724-71fa-713e-af21-737e666d4525\u0022,\u0022Latitude\u0022:1,\u0022Longitude\u0022:20}",
+    "OccurredAt": "2025-03-15T00:11:43.029959+00:00",
+    "ProcessedAt": "2025-03-15T00:13:03.458845+00:00"
+  },
+  {
+    "Id": "01959724-723d-720e-b51a-ba6fd6007095",
+    "Type": "Library.Application.Events.EmailOutboxEvent",
+    "Payload": "{\u0022To\u0022:\u0022vaporbae@gmail.com\u0022,\u0022Subject\u0022:\u0022New Weather Forecast Created\u0022,\u0022Body\u0022:\u0022A new weather forecast has been created for coordinates: 1.000000, 20.000000.\u0022}",
+    "OccurredAt": "2025-03-15T00:11:43.037975+00:00",
+    "ProcessedAt": "2025-03-15T00:13:08.641757+00:00"
+  }
+]
