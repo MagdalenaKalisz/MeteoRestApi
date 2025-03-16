@@ -37,7 +37,7 @@ Ensure you have the following installed on your system:
 
 ---
 
-### Environment Variables**
+### Environment Variables
 Before running the application, ensure the following **environment variables** are set for PostgreSQL and PgAdmin (file: .env):
 
 POSTGRES_HOST=db
